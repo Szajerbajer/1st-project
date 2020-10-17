@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(siedzimy.jpg);
+  height: 100vh;
+  background-position: center;
+}
+h1 {
+  position: absolute;
+  font-size: 4.6rem;
+  color: white;
+  right: 20%;
+  top: 20%;
+  font-family: "Roboto", sans-serif;
+}
